@@ -7,10 +7,10 @@ description: 'The Google Play Developer API allows you to perform a number of pu
   API lets you upload and publish apps, and perform other publishing-related tasks.'
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-play.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Play
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-play/master/_listings/google-play/apis.md
 specificationVersion: "0.14"
 apis:
